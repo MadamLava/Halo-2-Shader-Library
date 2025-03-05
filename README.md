@@ -1,5 +1,5 @@
 # Halo-2-Shader-Library
-Extension add-on for the Halo Asset Blender Development Toolset that enables creation of a visual library of Halo 2 environment shaders. Requires Blender 4.0 or later.
+Extension add-on for the Halo Asset Blender Development Toolset that enables creation of a visual library of Halo 2 environment shaders. Requires Blender 4.0 or later. All credit to General_101 and co. for their work on the original toolset this addon depends on, and to Crisp and other members of the Halo modding spheres for input/assistance on the coding side of things.
 
 ## How to Set Up
 
